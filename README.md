@@ -2,7 +2,8 @@
 
 h3. SHORTCUTS
 
-{background:#ddd}. |_. Key/Command |_. Description |
+|Key/Command|Description|
+|---|---|
 | Ctrl + A | Go to the beginning of the line you are currently typing on |
 | Ctrl + E | Go to the end of the line you are currently typing on |
 | Ctrl + L | Clears the Screen |
@@ -26,6 +27,8 @@ h3. SHORTCUTS
 
 h3. CORE COMMANDS
 
+|Key/Command|Description|
+|---|---|
 | cd | Home directory |
 | cd [folder] | Change directory |
 | cd ~ | Home directory, e.g. 'cd ~/folder/' |
@@ -46,6 +49,8 @@ h3. CORE COMMANDS
 
 h3. COMMAND HISTORY
 
+|Key/Command|Description|
+|---|---|
 | history n | Shows the stuff typed - add a number to limit the last n items |
 | ctrl-r | Interactively search through previously typed commands |
 | ![value] | Execute the last command typed that starts with 'value' |
@@ -54,6 +59,8 @@ h3. COMMAND HISTORY
 
 h3. FILE MANAGEMENT
 
+|Key/Command|Description|
+|---|---|
 | touch [file] | Create new file |
 | pwd | Full path to working directory |
 | .. | Parent/enclosing directory, e.g. |
@@ -73,6 +80,8 @@ h3. FILE MANAGEMENT
 
 h3. DIRECTORY MANAGEMENT
 
+|Key/Command|Description|
+|---|---|
 | mkdir [dir] | Create new directory |
 | mkdir -p [dir]/[dir] | Create nested directories |
 | rmdir [dir] | Remove directory ( only operates on empty directories ) |
@@ -82,6 +91,8 @@ h3. DIRECTORY MANAGEMENT
 
 h3. PIPES - Allows to combine multiple commands that generate output
 
+|Key/Command|Description|
+|---|---|
 | more | Output content delivered in screensize chunks |
 | > [file] | Push output to file, keep in mind it will get overwritten |
 | >> [file] | Append output to existing file |
@@ -90,6 +101,8 @@ h3. PIPES - Allows to combine multiple commands that generate output
 
 h3. HELP
 
+|Key/Command|Description|
+|---|---|
 | [command] -h | Offers help |
 | [command] --help | Offers help |
 | [command] help | Offers help |
