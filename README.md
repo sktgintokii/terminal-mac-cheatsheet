@@ -1,6 +1,6 @@
 # Terminal Mac Cheatsheet
 
-h3. SHORTCUTS
+*** SHORTCUTS
 
 |Key/Command|Description|
 |---|---|
@@ -25,7 +25,7 @@ h3. SHORTCUTS
 | Tab | Auto-complete files and folder names |
 
 
-h3. CORE COMMANDS
+*** CORE COMMANDS
 
 |Key/Command|Description|
 |---|---|
@@ -47,7 +47,7 @@ h3. CORE COMMANDS
 | clear | Clear screen |
 
 
-h3. COMMAND HISTORY
+*** COMMAND HISTORY
 
 |Key/Command|Description|
 |---|---|
@@ -57,7 +57,7 @@ h3. COMMAND HISTORY
 | !! | Execute the last command typed |
 
 
-h3. FILE MANAGEMENT
+*** FILE MANAGEMENT
 
 |Key/Command|Description|
 |---|---|
@@ -78,7 +78,7 @@ h3. FILE MANAGEMENT
 | mv [file] [new filename] | Move/Rename, e.g. mv -v [file] [dir] |
 
 
-h3. DIRECTORY MANAGEMENT
+*** DIRECTORY MANAGEMENT
 
 |Key/Command|Description|
 |---|---|
@@ -89,7 +89,7 @@ h3. DIRECTORY MANAGEMENT
  
 
 
-h3. PIPES - Allows to combine multiple commands that generate output
+*** PIPES - Allows to combine multiple commands that generate output
 
 |Key/Command|Description|
 |---|---|
@@ -99,7 +99,7 @@ h3. PIPES - Allows to combine multiple commands that generate output
 | < | Tell command to read content from a file |
 
 
-h3. HELP
+*** HELP
 
 |Key/Command|Description|
 |---|---|
